@@ -56,7 +56,9 @@ docker-compose down && docker-compose up
 
 [3° Build and Deploy a REST API with Django and Docker — Part 2](https://medium.com/@vinodkv2511/build-and-deploy-a-rest-api-with-django-and-docker-part-2-8c375cc5e89f/) 
 
-[4° Criar aplicação com Django + Docker](https://github.com/claudimf/django-docker/)  
+[4° A practical guide to start a project in Django with Postgres and Docker](https://medium.com/@umayuxlabs/a-practical-guide-to-start-a-project-in-django-with-postgres-and-docker-5325523c550/)  
+
+[5° Criar aplicação com Django + Docker](https://github.com/claudimf/django-docker/)  
 
 
 

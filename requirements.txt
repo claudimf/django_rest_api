@@ -1,10 +1,11 @@
-Django>=1.8,<2.0
-djangorestframework
-django-crispy-forms
+Django==3.1.2
+djangorestframework==3.12.1
+django-crispy-forms==1.9.2
 django-filter
 django-request
 django-guardian
 Markdown
 Pigments
 coreapi
-psycopg2
+psycopg2-binary>=2.8
+
