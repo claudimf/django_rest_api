@@ -50,7 +50,7 @@ docker-compose down && docker-compose up
 
 # Referências utilizadas
 
-[1° Create a REST API with Django and Docker ](https://github.com/yannikmesserli/django-rest-framework-docker/) 
+[1° Create a REST API with Django and Docker ](https://github.com/kartheekgottipati/Docker-compose-django-rest-deploy/) 
 
 [2° Build and Deploy a REST API with Django and Docker — Part 1](https://medium.com/@vinodkv2511/build-and-deploy-a-rest-api-with-django-and-docker-part-1-3645e7a4d182/) 
 
